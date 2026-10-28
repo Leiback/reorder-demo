@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2026-10-12T00:00:00.000Z",
+  "industries": [
+    {
+      "id": "pet-supply",
+      "name": "Pet supply",
+      "store": "Maple Street Pet Supply",
+      "description": "A fast-selling canned cat food has been out of stock for weeks, so its true demand is hidden; watch the suggestion correct for it.",
+      "products": 41,
+      "vendors": 4,
+      "files": {
+        "itemsDetail": "pet-supply/items-detail.csv",
+        "itemLibraryCsv": "pet-supply/item-library.csv",
+        "itemLibraryXlsx": "pet-supply/item-library.xlsx"
+      }
+    },
+    {
+      "id": "wine-liquor",
+      "name": "Wine & liquor",
+      "store": "Larkin Street Bottle Shop",
+      "description": "A seasonal mulled wine is suddenly selling three times faster than its 90-day average, and the house red magnum sold out a month into the window.",
+      "products": 39,
+      "vendors": 3,
+      "files": {
+        "itemsDetail": "wine-liquor/items-detail.csv",
+        "itemLibraryCsv": "wine-liquor/item-library.csv",
+        "itemLibraryXlsx": "wine-liquor/item-library.xlsx"
+      }
+    },
+    {
+      "id": "specialty-food",
+      "name": "Specialty food",
+      "store": "Hearth & Larder Provisions",
+      "description": "Fresh cheese and bread are ordered weekly with short lead times, while a lavender honey only comes in cases that would last almost three months.",
+      "products": 39,
+      "vendors": 4,
+      "files": {
+        "itemsDetail": "specialty-food/items-detail.csv",
+        "itemLibraryCsv": "specialty-food/item-library.csv",
+        "itemLibraryXlsx": "specialty-food/item-library.xlsx"
+      }
+    },
+    {
+      "id": "hardware",
+      "name": "Hardware",
+      "store": "Prairie Line Hardware",
+      "description": "Picture-hanging kits sold steadily until they ran out two months ago, and bulk materials come from a yard that takes ten days and ships every two weeks.",
+      "products": 38,
+      "vendors": 4,
+      "files": {
+        "itemsDetail": "hardware/items-detail.csv",
+        "itemLibraryCsv": "hardware/item-library.csv",
+        "itemLibraryXlsx": "hardware/item-library.xlsx"
+      }
+    },
+    {
+      "id": "bike-shop",
+      "name": "Bike shop",
+      "store": "Switchback Cycles",
+      "description": "Patch kits sold out a month into the window and never came back, while complete bikes sell a couple of times a month and should not be reordered by the case.",
+      "products": 38,
+      "vendors": 4,
+      "files": {
+        "itemsDetail": "bike-shop/items-detail.csv",
+        "itemLibraryCsv": "bike-shop/item-library.csv",
+        "itemLibraryXlsx": "bike-shop/item-library.xlsx"
+      }
+    },
+    {
+      "id": "gift",
+      "name": "Gift shop",
+      "store": "Juniper & Twine Gifts",
+      "description": "Replenished staples like birthday cards and candles sit next to one-off maker pieces that sold once and should not be reordered automatically.",
+      "products": 37,
+      "vendors": 4,
+      "files": {
+        "itemsDetail": "gift/items-detail.csv",
+        "itemLibraryCsv": "gift/item-library.csv",
+        "itemLibraryXlsx": "gift/item-library.xlsx"
+      }
+    }
+  ]
+}
